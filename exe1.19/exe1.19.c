@@ -22,8 +22,8 @@ void reverse(char s[],int len)
 	char temp;
 	int i=0;
 	int j = 2;
-	while(i<len-j)
 	{
+	while(i<len-j)
 		temp = s[i];
 		s[i] = s[len - j];
 		s[len - j] = temp;
