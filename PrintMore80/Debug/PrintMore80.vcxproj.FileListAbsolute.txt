@@ -1,0 +1,2 @@
+D:\study_source\c_code\test12.28\test12.28\PrintMore80\Debug\PrintMore80.exe
+D:\study_source\c_code\test12.28\test12.28\PrintMore80\Debug\PrintMore80.pdb
