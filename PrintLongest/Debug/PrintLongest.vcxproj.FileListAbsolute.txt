@@ -1,0 +1,2 @@
+D:\study_source\c_code\test12.28\PrintLongest\Debug\PrintLongest.exe
+D:\study_source\c_code\test12.28\PrintLongest\Debug\PrintLongest.pdb
